@@ -1,0 +1,5 @@
+
+> node@1.0.0 start
+> node index.js
+
+Server started on port 3000
