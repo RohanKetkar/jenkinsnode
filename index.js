@@ -10,6 +10,7 @@ app.get("/health", (req, res) => {
     res.send("Application is running");
 });
 app.get("/ok86", (req, res) => {
+    console.log("ok86");
     res.send("Application is ok86git");
 });
 const PORT = 3000;
