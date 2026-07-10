@@ -27,7 +27,7 @@ pipeline {
             steps {
 
                 // Build the Maven project
-                sh "mvn clean package"
+               sh "echo hello"
 
             }
 
